@@ -1,1 +1,6 @@
  Happy Tuesday everyone
+Don’t forget to set token 
+Git add – moves files to staging/green
+ Git commit- add files to local repositories
+Git push- to add files to remote repositories
+Git pull/fetch/clone – move remote to local repositories
