@@ -4,3 +4,13 @@ Git add – moves files to staging/green
  Git commit- add files to local repositories
 Git push- to add files to remote repositories
 Git pull/fetch/clone – move remote to local repositories
+DevOps Process -- > Coding > testing > Build > deploy.
+
+What are build tools used to achieve? 
+Build tools are used to create deployable packages. 
+
+I.Q. what type of projects are you supporting in your environment. 
+Answer: we support Java based projects and a few writings in .NET and NodeJS Projects. 
+
+Build tools.
+Java – MAVEN, Gradle 
